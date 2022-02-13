@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4c933C69134EDB737fE057dbD56044BE9caB2D0D",
+  "SCAN_LINK": "https://etherscan.io/address/0x4c933c69134edb737fe057dbd56044be9cab2d0d",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "PiggyBanxNFT",
+  "SYMBOL": "PB",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 22000000000000000,
+  "DISPLAY_COST": 0.022,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/piggybanxnft",
+  "SHOW_BACKGROUND": false
+}
